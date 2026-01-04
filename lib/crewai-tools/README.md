@@ -14,7 +14,7 @@ CrewAI Tools provide the essential functionality to extend your agents, helping 
 
 ## Quick Links
 
-[Homepage](https://www.crewai.com/) | [Documentation](https://docs.crewai.com/) | [Examples](https://github.com/crewAIInc/crewAI-examples) | [Community](https://community.crewai.com/)
+[Homepage](https://github.com/BlackRoad-OS/crewAI) | [Documentation](https://docs.crewai.com/) | [Examples](https://github.com/BlackRoad-OS/crewAI-examples) | [Community](https://github.com/BlackRoad-OS/crewAI/discussions)
 
 ---
 
@@ -223,7 +223,7 @@ pip install crewai[tools]
 
 Join our rapidly growing community and receive real-time support:
 
-- [Discourse](https://community.crewai.com/)
-- [Open an Issue](https://github.com/crewAIInc/crewAI/issues)
+- [Discussions](https://github.com/BlackRoad-OS/crewAI/discussions)
+- [Open an Issue](https://github.com/BlackRoad-OS/crewAI/issues)
 
 Build smarter, faster, and more powerful AI solutions—powered by CrewAI Tools.
