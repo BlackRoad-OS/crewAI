@@ -14,9 +14,9 @@
   ·
   <a href="https://docs.crewai.com">Docs</a>
   ·
-  <a href="https://github.com/BlackRoad-OS/crewAI">Start Trial</a>
+  <a href="https://github.com/BlackRoad-OS/crewAI/discussions">Community</a>
   ·
-  <a href="https://github.com/BlackRoad-OS/crewAI/discussions">Forum</a>
+  <a href="https://github.com/BlackRoad-OS/crewAI">Repository</a>
 </p>
 
 <p align="center">
