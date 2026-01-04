@@ -1,38 +1,36 @@
 <p align="center">
-  <a href="https://github.com/crewAIInc/crewAI">
+  <a href="https://github.com/BlackRoad-OS/crewAI">
     <img src="docs/images/crewai_logo.png" width="600px" alt="Open source Multi-AI Agent orchestration framework">
   </a>
 </p>
 <p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <a href="https://trendshift.io/repositories/11239" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/11239" alt="crewAIInc%2FcrewAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/repositories/11239" alt="BlackRoad-OS%2FcrewAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://crewai.com">Homepage</a>
+  <a href="https://github.com/BlackRoad-OS/crewAI">Homepage</a>
   ·
   <a href="https://docs.crewai.com">Docs</a>
   ·
-  <a href="https://app.crewai.com">Start Cloud Trial</a>
+  <a href="https://github.com/BlackRoad-OS/crewAI/discussions">Community</a>
   ·
-  <a href="https://blog.crewai.com">Blog</a>
-  ·
-  <a href="https://community.crewai.com">Forum</a>
+  <a href="https://github.com/BlackRoad-OS/crewAI">Repository</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/crewAIInc/crewAI">
-    <img src="https://img.shields.io/github/stars/crewAIInc/crewAI" alt="GitHub Repo stars">
+  <a href="https://github.com/BlackRoad-OS/crewAI">
+    <img src="https://img.shields.io/github/stars/BlackRoad-OS/crewAI" alt="GitHub Repo stars">
   </a>
-  <a href="https://github.com/crewAIInc/crewAI/network/members">
-    <img src="https://img.shields.io/github/forks/crewAIInc/crewAI" alt="GitHub forks">
+  <a href="https://github.com/BlackRoad-OS/crewAI/network/members">
+    <img src="https://img.shields.io/github/forks/BlackRoad-OS/crewAI" alt="GitHub forks">
   </a>
-  <a href="https://github.com/crewAIInc/crewAI/issues">
-    <img src="https://img.shields.io/github/issues/crewAIInc/crewAI" alt="GitHub issues">
+  <a href="https://github.com/BlackRoad-OS/crewAI/issues">
+    <img src="https://img.shields.io/github/issues/BlackRoad-OS/crewAI" alt="GitHub issues">
   </a>
-  <a href="https://github.com/crewAIInc/crewAI/pulls">
-    <img src="https://img.shields.io/github/issues-pr/crewAIInc/crewAI" alt="GitHub pull requests">
+  <a href="https://github.com/BlackRoad-OS/crewAI/pulls">
+    <img src="https://img.shields.io/github/issues-pr/BlackRoad-OS/crewAI" alt="GitHub pull requests">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
@@ -46,8 +44,8 @@
   <a href="https://pypi.org/project/crewai/">
     <img src="https://img.shields.io/pypi/dm/crewai" alt="PyPI downloads">
   </a>
-  <a href="https://twitter.com/crewAIInc">
-    <img src="https://img.shields.io/twitter/follow/crewAIInc?style=social" alt="Twitter Follow">
+  <a href="https://github.com/BlackRoad-OS/crewAI">
+    <img src="https://img.shields.io/badge/BlackRoad%20OS-Native-blue" alt="BlackRoad OS Native">
   </a>
 </p>
 
@@ -55,6 +53,7 @@
 
 > CrewAI is a lean, lightning-fast Python framework built entirely from scratch—completely **independent of LangChain or other agent frameworks**.
 > It empowers developers with both high-level simplicity and precise low-level control, ideal for creating autonomous AI agents tailored to any scenario.
+> **Now maintained and enhanced by BlackRoad OS, Inc.**
 
 - **CrewAI Crews**: Optimize for autonomy and collaborative intelligence.
 - **CrewAI Flows**: Enable granular, event-driven control, single LLM calls for precise task orchestration and supports Crews natively
@@ -65,6 +64,8 @@ standard for enterprise-ready AI automation.
 # CrewAI AOP Suite
 
 CrewAI AOP Suite is a comprehensive bundle tailored for organizations that require secure, scalable, and easy-to-manage agent-driven automation.
+
+**Developed and maintained by BlackRoad OS, Inc.**
 
 You can try one part of the suite the [Crew Control Plane for free](https://app.crewai.com)
 
@@ -416,12 +417,12 @@ Choose CrewAI to easily build powerful, adaptable, and production-ready AI autom
 
 ## Examples
 
-You can test different real life examples of AI crews in the [CrewAI-examples repo](https://github.com/crewAIInc/crewAI-examples?tab=readme-ov-file):
+You can test different real life examples of AI crews in the [CrewAI-examples repo](https://github.com/BlackRoad-OS/crewAI-examples?tab=readme-ov-file):
 
-- [Landing Page Generator](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/landing_page_generator)
+- [Landing Page Generator](https://github.com/BlackRoad-OS/crewAI-examples/tree/main/crews/landing_page_generator)
 - [Having Human input on the execution](https://docs.crewai.com/how-to/Human-Input-on-Execution)
-- [Trip Planner](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/trip_planner)
-- [Stock Analysis](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/stock_analysis)
+- [Trip Planner](https://github.com/BlackRoad-OS/crewAI-examples/tree/main/crews/trip_planner)
+- [Stock Analysis](https://github.com/BlackRoad-OS/crewAI-examples/tree/main/crews/stock_analysis)
 
 ### Quick Tutorial
 
@@ -429,19 +430,19 @@ You can test different real life examples of AI crews in the [CrewAI-examples re
 
 ### Write Job Descriptions
 
-[Check out code for this example](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/job-posting) or watch a video below:
+[Check out code for this example](https://github.com/BlackRoad-OS/crewAI-examples/tree/main/crews/job-posting) or watch a video below:
 
 [![Jobs postings](https://img.youtube.com/vi/u98wEMz-9to/maxresdefault.jpg)](https://www.youtube.com/watch?v=u98wEMz-9to "Jobs postings")
 
 ### Trip Planner
 
-[Check out code for this example](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/trip_planner) or watch a video below:
+[Check out code for this example](https://github.com/BlackRoad-OS/crewAI-examples/tree/main/crews/trip_planner) or watch a video below:
 
 [![Trip Planner](https://img.youtube.com/vi/xis7rWp-hjs/maxresdefault.jpg)](https://www.youtube.com/watch?v=xis7rWp-hjs "Trip Planner")
 
 ### Stock Analysis
 
-[Check out code for this example](https://github.com/crewAIInc/crewAI-examples/tree/main/crews/stock_analysis) or watch a video below:
+[Check out code for this example](https://github.com/BlackRoad-OS/crewAI-examples/tree/main/crews/stock_analysis) or watch a video below:
 
 [![Stock Analysis](https://img.youtube.com/vi/e0Uj4yWdaAg/maxresdefault.jpg)](https://www.youtube.com/watch?v=e0Uj4yWdaAg "Stock Analysis")
 
@@ -556,7 +557,7 @@ Please refer to the [Connect CrewAI to LLMs](https://docs.crewai.com/how-to/LLM-
 
 - **LangGraph**: While LangGraph provides a foundation for building agent workflows, its approach requires significant boilerplate code and complex state management patterns. The framework's tight coupling with LangChain can limit flexibility when implementing custom agent behaviors or integrating with external systems.
 
-*P.S. CrewAI demonstrates significant performance advantages over LangGraph, executing 5.76x faster in certain cases like this QA task example ([see comparison](https://github.com/crewAIInc/crewAI-examples/tree/main/Notebooks/CrewAI%20Flows%20%26%20Langgraph/QA%20Agent)) while achieving higher evaluation scores with faster completion times in certain coding tasks, like in this example ([detailed analysis](https://github.com/crewAIInc/crewAI-examples/blob/main/Notebooks/CrewAI%20Flows%20%26%20Langgraph/Coding%20Assistant/coding_assistant_eval.ipynb)).*
+*P.S. CrewAI demonstrates significant performance advantages over LangGraph, executing 5.76x faster in certain cases like this QA task example ([see comparison](https://github.com/BlackRoad-OS/crewAI-examples/tree/main/Notebooks/CrewAI%20Flows%20%26%20Langgraph/QA%20Agent)) while achieving higher evaluation scores with faster completion times in certain coding tasks, like in this example ([detailed analysis](https://github.com/BlackRoad-OS/crewAI-examples/blob/main/Notebooks/CrewAI%20Flows%20%26%20Langgraph/Coding%20Assistant/coding_assistant_eval.ipynb)).*
 
 - **Autogen**: While Autogen excels at creating conversational agents capable of working together, it lacks an inherent concept of process. In Autogen, orchestrating agents' interactions requires additional programming, which can become complex and cumbersome as the scale of tasks grows.
 - **ChatDev**: ChatDev introduced the idea of processes into the realm of AI agents, but its implementation is quite rigid. Customizations in ChatDev are limited and not geared towards production environments, which can hinder scalability and flexibility in real-world applications.
@@ -647,7 +648,7 @@ Users can opt-in to Further Telemetry, sharing the complete telemetry data by se
 
 ## License
 
-CrewAI is released under the [MIT License](https://github.com/crewAIInc/crewAI/blob/main/LICENSE).
+CrewAI is released under the [MIT License](https://github.com/BlackRoad-OS/crewAI/blob/main/LICENSE).
 
 ## Frequently Asked Questions (FAQ)
 
@@ -726,7 +727,7 @@ A: CrewAI collects anonymous telemetry data strictly for improvement purposes. S
 
 ### Q: Where can I find real-world CrewAI examples?
 
-A: Check out practical examples in the [CrewAI-examples repository](https://github.com/crewAIInc/crewAI-examples), covering use cases like trip planners, stock analysis, and job postings.
+A: Check out practical examples in the [CrewAI-examples repository](https://github.com/BlackRoad-OS/crewAI-examples), covering use cases like trip planners, stock analysis, and job postings.
 
 ### Q: How can I contribute to CrewAI?
 
